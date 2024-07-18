@@ -1,0 +1,9 @@
+{
+    "source_directory": "./",
+    "mappings": {
+        "/path/to/images": [".jpg", ".jpeg", ".png", ".gif"],
+        "/path/to/documents": [".pdf", ".doc", ".docx", ".txt"],
+        "/path/to/music": [".mp3", ".wav", ".flac"],
+        "/path/to/videos": [".mp4", ".avi", ".mov"]
+    }
+}
