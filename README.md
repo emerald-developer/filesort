@@ -1,4 +1,4 @@
-# File Sorter Script
+# PySort
 
 This Python script sorts files into directories based on their file extensions, using a JSON configuration file to specify the sorting rules.
 
@@ -58,7 +58,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/emerald-developer/filesort/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/emerald-developer/pySort/issues) if you want to contribute.
 
 ## Author
 
