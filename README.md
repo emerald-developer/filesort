@@ -54,7 +54,7 @@ Given the configuration above, a file named `vacation.jpg` in the source directo
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [GNU GENERAL PUBLIC LICENSE](LICENSE).
 
 ## Contributing
 
